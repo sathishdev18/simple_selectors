@@ -1,0 +1,100 @@
+.class {
+    margin-left: auto;
+    margin-right: auto;
+}
+table,
+td {
+    border: 1px solid black;
+    border-spacing: 30px;
+    border-collapse: collapse;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.t_d {
+    background-color: khaki;
+    text-align: center;
+}
+
+.t_d2 {
+    background-color: royalblue;
+    text-align: center;
+}
+
+.t_d3 {
+    background-color: gold;
+    text-align: center;
+}
+
+.t_d4 {
+    background-color: deeppink;
+    text-align: center;
+}
+
+.t_d5 {
+    background-color: bisque;
+    text-align: center;
+}
+
+.t_d6 {
+    background-color: goldenrod;
+    text-align: center;
+
+}
+
+#a {
+    background-color: gold;
+    text-align: center;
+}
+
+#b {
+    background-color: orange;
+    text-align: center;
+}
+
+#c {
+    background-color: bisque;
+    text-align: center;
+
+}
+
+#d {
+    background-color: darkgreen;
+    text-align: center;
+}
+
+#e {
+    background-color: lavender;
+    text-align: center;
+}
+
+#f {
+    background-color: brown;
+    text-align: center;
+}
+#h{
+    background-color: lavender;text-align: center;
+}
+#i{
+    background-color: gold;text-align: center;
+}
+#j{
+    background-color: brown;text-align: center;
+}
+#k{
+    background-color: blueviolet;text-align: center;
+}
+#l{
+    background-color: green;text-align: center;
+}
+
+td{
+    
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+  }
